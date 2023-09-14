@@ -1,0 +1,31 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: burlywood;
+  padding: 1rem;
+}
+
+section {
+  background-color: white;
+  border-radius: 2rem;
+  padding: 2rem;
+  margin-bottom: 1rem;
+}
+
+input {
+  width: 99%;
+  height: 2rem;
+  border: 2px solid burlywood;
+  border-radius: 2rem;
+  padding: 0.5rem;
+}
+
+textarea {
+  width: 99%;
+  height: 4rem;
+  border: 2px solid burlywood;
+  border-radius: 2rem;
+  padding: 0.5rem;
+}
